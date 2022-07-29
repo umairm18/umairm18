@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I am Umair Tahir 👋
 
-<!--
-**umairm18/umairm18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Angular JS
+- 🌱 I’m currently learning React JS, ML, Angular JS, Django
+- 🤔 I’m looking for help with React Native & Angular
+- 💬 Ask me about Software & Technology etc
+- 📫 How to reach me: Instagram [@Umairm18](https://www.instagram.com/umairm18/)
+- 😄 Pronouns: He He He
+- ⚡ Fun fact: Google has introduced a new feature. Simply type I'm feeling curious in the search box and you will be presented with Random Facts from around the world.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**GitHub Stats**<br>
+<img src="https://github-readme-stats.vercel.app/api?username=umairm18&&show_icons=true&title_color=#ffa500&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
