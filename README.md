@@ -1,10 +1,10 @@
 ### Hi there, I am Umair Tahir 👋
 
-- 🔭 I’m currently working on Angular JS
-- 🌱 I’m currently learning React JS, ML, Angular JS, Django
-- 🤔 I’m looking for help with React Native & Angular
+- 🔭 Working as full stack .Net Core + Angular Developer
+- 🌱 Trying to expand skills in frontend technologies
+- 🤔 Open to collaborating on .Net, Angular, Python, and Node projects
 - 💬 Ask me about Software & Technology etc
-- 📫 How to reach me: Instagram [@Umairm18](https://www.instagram.com/umairm18/)
+- 📫 How to reach me: Instagram [@umair.t18](https://www.instagram.com/umair.t18/)
 - 😄 Pronouns: He He He
 - ⚡ Fun fact: Google has introduced a new feature. Simply type I'm feeling curious in the search box and you will be presented with Random Facts from around the world.
 
